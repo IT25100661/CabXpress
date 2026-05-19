@@ -1,0 +1,29 @@
+# CabXpress generated and local files
+.env
+*.env
+!*.env.example
+
+# Java / Maven
+backend/target/
+*.class
+.idea/
+*.iml
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+#env
+frontend/.env
+backend/.env
+
+/docs
