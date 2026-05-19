@@ -1,0 +1,14 @@
+package com.cabxpress.enums;
+
+public enum NotificationType {
+    BOOKING_INITIATED,
+    BOOKING_CONFIRMED,
+    BOOKING_CANCELLED,
+    TRIP_STARTED,
+    TRIP_COMPLETED,
+    PAYMENT_CONFIRMED,
+    PAYMENT_FAILED,
+    DRIVER_ASSIGNED,
+    VEHICLE_UNAVAILABLE,
+    VEHICLE_AVAILABLE
+}
