@@ -1,2 +1,0 @@
--- CabXpress uses DataInitializer for idempotent seed data.
--- Optional SQL reference artifact. The application seeds runtime data through DataInitializer.
